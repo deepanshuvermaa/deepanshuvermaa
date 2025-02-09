@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing my knowledge of data structures and algorithms, AWS, and both frontend and backend.<br>👯 I’m looking to collaborate on real-world projects and problems that can help me grow as an engineer and help me learn new technologies.<br>🤝 I’m looking for help with new opportunities to grow as a developer<br>🌱 I’m currently learning AWS and Postman.<br>💬 Ask me about<br>⚡ Fun fact about me is I might know how to do it initially but if I get a chance at the end I would be the one who would be knowing about it the most.
+🔭 I’m currently working on enhancing my knowledge of data structures and algorithms, AWS, and both frontend and backend.<br>👯 I’m looking to collaborate on real-world projects and problems that can help me grow as an engineer and help me learn new technologies.<br>🤝 I’m looking for help with new opportunities to grow as an engineer<br>🌱 I’m currently learning AWS and Postman.<br>💬 Ask me about<br>⚡ Fun fact about me is I might know how to do it initially but if I get a chance at the end I would be the one who would be knowing about it the most.
 
 
 ## 🌐 Socials:
